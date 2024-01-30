@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Nicoding - Movie Tracker",
+        "description": "Website to tracker and save all your favourite movies",
+        "linkDeployment": "https://kylogg88.github.io/NicodingProject1/",
+        "linkRepository": "https://github.com/KyloGG88/NicodingProject1",
+        "screenshot": "./assets/images/nicoding.png"
+    },
+    {
+        "id": 2,
+        "title": "Password Generator",
+        "description": "This application is to generate random passwords based on user input.",
+        "linkDeployment": "https://kylogg88.github.io/PWGK8/",
+        "linkRepository": "https://github.com/KyloGG88/PWGK8",
+        "screenshot": "./assets/images/password.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Team Profile Generator",
+        "description": "This app generates a webpage that displays my team's basic info.",
+        "linkDeployment": "https://github.com/KyloGG88/TeamProfileGeneratorK88K",
+        "linkRepository": "https://github.com/KyloGG88/TeamProfileGeneratorK88K",
+        "screenshot": "./assets/images/TeamHTML.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Schedule Planner",
+        "description": "This App allows you to schedule your day from the hours of 9AM - 5PM",
+        "linkDeployment": "https://kylogg88.github.io/K88KPlanner/",
+        "linkRepository": "https://github.com/KyloGG88/K88KPlanner",
+        "screenshot": "./assets/images/Scheduler.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Weather App",
+        "description": "This App shows you a 5-Day weather forecast of any searched city.",
+        "linkDeployment": "https://kylogg88.github.io/WeatherApp/",
+        "linkRepository": "https://github.com/KyloGG88/WeatherApp",
+        "screenshot": "./assets/images/weatherapp.png"
+    },
+    {
+        "id": 6,
+        "title": "Coding Quiz",
+        "description": "A simple coding quiz created with Javascript.",
+        "linkDeployment": "https://kylogg88.github.io/K88K-Coding-Quiz/",
+        "linkRepository": "https://github.com/KyloGG88/K88K-Coding-Quiz",
+        "screenshot": "./assets/images/codingquiz.jpg"
+    }
+]
+  
