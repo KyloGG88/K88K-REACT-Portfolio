@@ -3,16 +3,16 @@ import Header from './components/Header/Header';
 import Contact from './pages/Contact';
 import Homepage from './pages/Homepage';
 import Projects from './pages/Projects';
-import { BrowseRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Page404 from './pages/Page404';
 import Footer from './components/Footer/Footer';
-import ScrollToTop from './components/ScrollToTop/ScrollToTop';
+
 
 function App() {
   return (
     
     <div className="App">
-      <BrowseRouter>
+      <Router>
         <Header />
         <Routes>
           <Route index element={<Homepage />} />
@@ -21,8 +21,7 @@ function App() {
           <Route path='*' element={<Page404 />} />
         </Routes>
         <Footer />
-        <ScrollToTop />
-      </BrowseRouter>
+       </Router>
     </div>
 
   );

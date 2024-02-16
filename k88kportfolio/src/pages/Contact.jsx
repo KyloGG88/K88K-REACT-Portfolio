@@ -1,7 +1,6 @@
 import React from 'react';
-import ContactForm from '../components/ContactForm/ContactForm'
-import "./Contact.css"
-import SocialMedia from '../components/SocialMedia/SocialMedia'
+import "./Contact.css";
+import SocialMedia from '../components/SocialMedia/SocialMedia';
 
 function Contact() {
   return (
@@ -12,10 +11,6 @@ function Contact() {
         <div className='social-media'>
           <SocialMedia />
         </div>
-        <div className='form-wrapper'>
-          <ContactForm />
-        </div>
-
       </div>
     </div>
   )
