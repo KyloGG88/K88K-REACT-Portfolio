@@ -4,12 +4,12 @@
 
 :root {
   --max-width: 1350px; 
-  --color-tertiary: rgb(0, 94, 202);
-  --color-secondary: #3b3b3b;
-  --color-black: #282828;
-  --color-white: rgb(226, 226, 226);
-  --color-black-darker: rgb(0, 0, 0);
-  --color-primary: #2488e6;
+  --color-tertiary:  #1184e8;
+  --color-secondary: #0a0f1b;
+  --color-black: #0d152d;
+  --color-white: #e6f1fd;
+  --color-black-darker: #171d22;
+  --color-primary: #0da2ff;
 }
 * {
   margin: 0;
