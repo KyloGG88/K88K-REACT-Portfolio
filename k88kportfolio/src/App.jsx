@@ -12,17 +12,17 @@ function App() {
   return (
     
     <div className="App">
-      <Router>
+      <BrowseRouter>
         <Header />
         <Routes>
-          <Route path='/' element={<Homepage />} />
+          <Route index element={<Homepage />} />
           <Route path='/projects' element={<Projects />} />
           <Route path='/contact' element={<Contact />} />
           <Route path='*' element={<Page404 />} />
         </Routes>
         <Footer />
         <ScrollToTop />
-      </Router>
+      </BrowseRouter>
     </div>
 
   );
